@@ -1,3 +1,3 @@
 # RESTful-Java-Spring-boot
 
-En este repositorio se encuentran las 4 peticiones rest web que se ejecutan de manera local y estan conectadas a una base de datos oracle.
+En este repositorio se encuentrara una aplicacion con las 4 peticiones rest web desarrolladas con Spring-Boot que se ejecutan de manera local y estan conectadas a una base de datos oracle.
